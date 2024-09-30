@@ -8,6 +8,6 @@ public class RightTypeRiddle {
         System.out.println(number + " is an integer");
         System.out.println(weight + " is a double");
         System.out.println(blood + " is a char");
-        System.out.println(isEmployee + " is a string");
+        System.out.println(isEmployee + " is a boolean");
     }
 }
