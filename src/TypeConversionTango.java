@@ -1,4 +1,4 @@
-public class theTypeConversionTango {
+public class TypeConversionTango {
     public static void main(String[] args){
         int theIntegerNumber = 79;
         double theDoubleNumber = 13.56;
